@@ -2,7 +2,8 @@
 
 A Simple World Clock that updates every minute!
 
-![Screenshot_20240307-021609](https://github.com/lexterror/World-Clock-CLI-Linux-Android/assets/16135535/8164b8f5-d145-4f9d-b536-21035a435c69)
+![Screenshot_20240307-021929](https://github.com/lexterror/World-Clock-CLI-Linux-Android/assets/16135535/1d17884a-7463-4f32-a637-3e944ce9f4c5)
+
 
 
 
